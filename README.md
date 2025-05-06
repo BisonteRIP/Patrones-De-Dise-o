@@ -1,2 +1,2 @@
-# Patrones-De-Dise-o
+# Patrones-De-Disño
 Notas sobre los patrones de diseños aprendidos
